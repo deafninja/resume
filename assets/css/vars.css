@@ -1,0 +1,12 @@
+:root {
+/**! Base Colors **/
+--neutral: #fff;
+--solid: #000;
+
+--base-dark: #092262;
+--base-light: #1E408A
+
+--accent-01: #8A3B53;
+--aceent-02: #224b0f;
+--accent-03: #437219;
+}
